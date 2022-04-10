@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2845" />
+        <entry key="app/src/main/res/drawable/login_bg_img.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.18177083333333333" />
         <entry key="app/src/main/res/layout/activity_launch.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.18177083333333333" />
       </map>
     </option>
   </component>

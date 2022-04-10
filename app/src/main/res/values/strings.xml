@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Ecommerce</string>
     <string name="app_icon_image_desc">AppIconImageDesc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bg_image_desc">bg image desc</string>
+    <string name="signup_welcome_hello">Hello,</string>
+    <string name="signup_welcome_text">Sign Up!</string>
+    <string name="signup_name_hint">USER NAME</string>
+    <string name="signup_name_ph">Your name</string>
 </resources>
