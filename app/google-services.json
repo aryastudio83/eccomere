@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649864255212",
+    "project_id": "eccomerce-990e7",
+    "storage_bucket": "eccomerce-990e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649864255212:android:71decd3b8307833d7637c9",
+        "android_client_info": {
+          "package_name": "com.aryastudio83.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649864255212-gaj0cfhi2h36v36khj3fkvlijkna585p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCndI9vyG3NRZJPyLDjVfihNTKDYISzF5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649864255212-gaj0cfhi2h36v36khj3fkvlijkna585p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
