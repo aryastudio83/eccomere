@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ecommerce</string>
+    <string name="app_icon_image_desc">AppIconImageDesc</string>
 </resources>
