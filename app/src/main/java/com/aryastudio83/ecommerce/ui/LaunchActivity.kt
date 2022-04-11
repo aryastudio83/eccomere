@@ -7,7 +7,7 @@ import android.os.Handler
 import android.os.Looper
 import com.aryastudio83.ecommerce.R
 import com.aryastudio83.ecommerce.ui.auth.AuthActivity
-import com.aryastudio83.ecommerce.ui.data.EcommerceSessionManager
+import com.aryastudio83.ecommerce.data.EcommerceSessionManager
 
 class LaunchActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
